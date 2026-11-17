@@ -1,0 +1,14 @@
+# Ambiente virtual
+venv/
+env/
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+# Banco de dados local
+*.db
+*.sqlite
+*.sqlite3
+# Arquivos de configuração com segredos
+.streamlit/secrets.toml
+# Configurações do VSCode
+.vscode/
